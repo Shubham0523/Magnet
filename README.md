@@ -9,3 +9,6 @@ Features
 Responsive design that adjusts to the size of the device being used to view the website.
 Navigation menu that allows the user to access different pages on the website.
 Dynamic styling and layout that changes based on the content and device being used to view the website.
+
+
+<img width="1470" alt="Screenshot 2023-04-06 at 12 29 10 AM" src="https://user-images.githubusercontent.com/95907789/230178957-9e5ba910-121e-4032-a322-6a45d3303e5b.png">
